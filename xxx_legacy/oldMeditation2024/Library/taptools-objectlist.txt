@@ -1,0 +1,105 @@
+
+max oblist Tap.Tools tap.allchange;	
+max oblist Tap.Tools tap.applescript;
+max oblist Tap.Tools tap.bits;
+max oblist Tap.Tools tap.change;
+max oblist Tap.Tools tap.colorspace;
+max oblist Tap.Tools tap.delay;
+max oblist Tap.Tools tap.loadbang;
+max oblist Tap.Tools tap.myip;
+max oblist Tap.Tools tap.pack;
+max oblist Tap.Tools tap.path;
+max oblist Tap.Tools tap.pi;
+max oblist Tap.Tools tap.prime;
+max oblist Tap.Tools tap.random;
+max oblist Tap.Tools tap.round;	
+max oblist Tap.Tools tap.sieve;
+max oblist Tap.Tools tap.smooth;
+max oblist Tap.Tools tap.thru;
+max oblist Tap.Tools tap.typecheck;
+max oblist Tap.Tools tap.unpack;
+
+max oblist "Tap.Tools Text" tap.atoi;
+max oblist "Tap.Tools Text" tap.ascii;
+max oblist "Tap.Tools Text" tap.itoa;
+max oblist "Tap.Tools Text" tap.string.sub;
+max oblist "Tap.Tools Text" tap.xml.parse;
+max oblist "Tap.Tools Text" tap.xml.attributes;
+max oblist "Tap.Tools Text" tap.xml.write;
+
+max oblist "Tap.Tools Audio" tap.1pole-lp~;
+max oblist "Tap.Tools Audio" tap.5comb~;
+max oblist "Tap.Tools Audio" tap.adapt~;
+max oblist "Tap.Tools Audio" tap.allpole~;
+max oblist "Tap.Tools Audio" tap.anticlick~;
+max oblist "Tap.Tools Audio" tap.auto_thru~;
+max oblist "Tap.Tools Audio" tap.avg~;
+max oblist "Tap.Tools Audio" tap.buffer.snap~;
+max oblist "Tap.Tools Audio" tap.buffer.record~;
+max oblist "Tap.Tools Audio" tap.buffer.record2~;	
+max oblist "Tap.Tools Audio" tap.buffer.norm~;
+max oblist "Tap.Tools Audio" tap.buffer.peak~;
+max oblist "Tap.Tools Audio" tap.counter~;
+max oblist "Tap.Tools Audio" tap.crossfade~;
+max oblist "Tap.Tools Audio" tap.decay_calc;
+max oblist "Tap.Tools Audio" tap.decibels~;
+max oblist "Tap.Tools Audio" tap.deviate~;
+max oblist "Tap.Tools Audio" tap.diff~;
+max oblist "Tap.Tools Audio" tap.elixir~;
+max oblist "Tap.Tools Audio" tap.fft~;
+max oblist "Tap.Tools Audio" tap.fft-list~;
+max oblist "Tap.Tools Audio" tap.fft-normalize~;
+max oblist "Tap.Tools Audio" tap.gate~;
+max oblist "Tap.Tools Audio" tap.ifft~;
+max oblist "Tap.Tools Audio" tap.limi~;
+max oblist "Tap.Tools Audio" tap.limiter~;
+max oblist "Tap.Tools Audio" tap.loadbang;
+max oblist "Tap.Tools Audio" tap.lp-comb~;
+max oblist "Tap.Tools Audio" tap.lpc~;
+max oblist "Tap.Tools Audio" tap.noise~;
+max oblist "Tap.Tools Audio" tap.normalizer~;
+max oblist "Tap.Tools Audio" tap.nr~;
+max oblist "Tap.Tools Audio" tap.pan~;
+max oblist "Tap.Tools Audio" tap.polar~;
+max oblist "Tap.Tools Audio" tap.quantize~;
+max oblist "Tap.Tools Audio" tap.radians~;
+max oblist "Tap.Tools Audio" tap.random~;
+max oblist "Tap.Tools Audio" tap.scale~;
+max oblist "Tap.Tools Audio" tap.shift~;
+max oblist "Tap.Tools Audio" tap.spectra~;
+max oblist "Tap.Tools Audio" tap.sift~;
+max oblist "Tap.Tools Audio" tap.split~;
+max oblist "Tap.Tools Audio" tap.sustain~;
+max oblist "Tap.Tools Audio" tap.thru~;
+max oblist "Tap.Tools Audio" tap.typecheck~;
+max oblist "Tap.Tools Audio" tap.verb~;
+max oblist "Tap.Tools Audio" tap.verb.lite~;
+max oblist "Tap.Tools Audio" tap.vocoder~;	
+max oblist "Tap.Tools Audio" tap.vocoderlite~;	
+max oblist "Tap.Tools Audio" tap.width~;	
+max oblist "Tap.Tools Audio" tap.zerox~;
+
+max oblist "Tap.Tools Pluggo" tap.plug.in~;
+max oblist "Tap.Tools Pluggo" tap.plug.midiin;
+max oblist "Tap.Tools Pluggo" tap.plug.out2~;
+max oblist "Tap.Tools Pluggo" tap.plug.out~;
+max oblist "Tap.Tools Pluggo" tap.plug.pp.matrixctrl;
+
+max oblist "Tap.Tools Jitter" tap.jit.ali;
+max oblist "Tap.Tools Jitter" tap.jit.colortrack;
+max oblist "Tap.Tools Jitter" tap.jit.delay;
+max oblist "Tap.Tools Jitter" tap.jit.getattributes;
+max oblist "Tap.Tools Jitter" tap.jit.grayscale;
+max oblist "Tap.Tools Jitter" tap.jit.kernel;
+max oblist "Tap.Tools Jitter" tap.jit.motion2;	
+max oblist "Tap.Tools Jitter" tap.jit.motion;	
+max oblist "Tap.Tools Jitter" tap.jit.motion+;	
+max oblist "Tap.Tools Jitter" tap.jit.pan;
+max oblist "Tap.Tools Jitter" tap.jit.proximity;
+max oblist "Tap.Tools Jitter" tap.jit.source;	
+max oblist "Tap.Tools Jitter" tap.jit.sum;		
+
+
+
+	
+	
